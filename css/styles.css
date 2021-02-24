@@ -1,0 +1,52 @@
+/*ajouter seulement les font family et les imports */
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Anton&family=Chewy&family=Fjalla+One&family=Newsreader:wght@200&family=Old+Standard+TT&display=swap');
+@import url(components/container.css);
+@import url(components/avatar.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+@import url(components/footer.css);
+@import url(components/menu.css);
+@import url(components/card.css);
+@import url(components/flexbox.css);
+@import url(components/research.css);
+
+body {
+font-family: 'Chewy', cursive;
+background-color: white;
+margin: 0px;
+padding:0px;
+}
+
+}
+
+h1,h2,h3 {
+	font-size: 25px;
+
+}
+p {
+	font-size: 15px
+	background-color: white;
+}
+
+a {
+text-decoration: none;
+color:white;
+
+}
+
+
+img {
+	width: 30%;
+	object-fit: cover;
+}
+
+.covid {
+	background-color: rgba(0,0,0,0.9);
+	text-align: center;
+	text-decoration-style: black;
+	margin-top: 0;
+	padding: 10px;
+	font-family: Arial;
+	text-decoration: underline;
+
+}

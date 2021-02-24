@@ -1,0 +1,17 @@
+.menu {
+	width: 500px;
+	margin: 0 auto;
+	color: white !important;
+}
+.menu ul {
+	display: flex;
+	justify-content: space-around;
+	align-items: flex-start;
+	color: white;
+}
+
+.tabs {
+	justify-content: center;
+	align-items: bottom;
+
+
